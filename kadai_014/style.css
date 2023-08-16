@@ -1,0 +1,31 @@
+#title{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.bodyfonts{
+  font-family: "Arial", "Meiriyo", sans-serif;
+}
+
+.rootfontsize{
+  font-size: 20px;
+}
+
+.colorpink{
+  color: rgb(255, 192, 203);
+}
+
+.colorskyblue{
+  color: skyblue;
+}
+
+.textalign{
+  text-align: center;
+}
+
+#basic > p{
+  font-weight: bold;
+}
